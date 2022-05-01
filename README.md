@@ -1,9 +1,9 @@
 
-<h1>⚡Oi, Meu nome é Aguiar <h1>
+<h1>⚡Oi, Meu nome é Aguiar<h1> 
 
 
-- 🔭 Eu sou um dev front end, que sabe html e css
-- 🌱 Atualmente estou estudando Java Script
+<h2>- 🔭 Eu sou um dev front end, que sabe html e css<h2>
+<h2>- 🌱 Atualmente estou estudando Java Script<h2>
 
 <div align="center">
   <a href="https://github.com/Jm1programmer">
