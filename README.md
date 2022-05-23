@@ -1,7 +1,6 @@
 
-<h1 align="center" font-size="130em">⚡Oi, Meu nome é Aguiar⚡<h1>
-<h4 font-size="30px"> 🔭 Eu sou um dev front end, que sabe html e css<h4>
-<p> 🌱 Atualmente estou estudando Java Script<p>
+<h4> 🔭 Eu sou um dev front end, que sabe html e css<h4>
+<h4> 🌱 Atualmente estou estudando Java Script<h4>
 
 <div align="center">
   <a href="https://github.com/Jm1programmer">
