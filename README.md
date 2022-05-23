@@ -9,7 +9,7 @@
        <img align="right" width="180px" src="https://media4.giphy.com/media/NVBR6cLvUjV9C/giphy.gif" alt="">
 </div>
 
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block" align="center"><br>
 
     
     
