@@ -1,8 +1,10 @@
- 👋 Hi, i'm João Marcos 
- <h4>😎 I'm interested in tecnology, languages and One Piece.</h4>
-<h4> 🔭 I'm a full Front End Programmer, that knows Html, Css and the basic of Java Script</h4>
-<h4> 🌱 I’m currently learning ReactJs, Python and NodeJs</h4>
-<h4> 🚀 How to reach me contactjoaomarcosaguiar@gmail.com</h4>
+<ul>
+<li>👋 Hi, i'm João Marcos </li>
+<li>😎 I'm interested in tecnology, languages and One Piece.</li>
+<li>🔭 I'm a full Front End Programmer, that knows Html, Css and the basic of Java Script</li>
+<li>🌱 I’m currently learning ReactJs, Python and NodeJs</li>
+<li>🚀 How to reach me contactjoaomarcosaguiar@gmail.com</h4></li>
+</ul>
 
 <div align="center" style="display: flex">
   <a href="https://github.com/Jm1programmer">
