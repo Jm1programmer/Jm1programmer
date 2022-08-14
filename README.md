@@ -1,4 +1,4 @@
-## <img height="70em" align="center" src="https://media.discordapp.net/attachments/955093666807054386/1008494920711012442/b9371273ae94a946e92074d1b96966-unscreen.gif"> Hi, i'm João Marcos ##
+## <img height="70em" style="user-select: none;" align="center" src="https://media.discordapp.net/attachments/955093666807054386/1008494920711012442/b9371273ae94a946e92074d1b96966-unscreen.gif"> Hi, i'm João Marcos ##
 <ul>
 <li>😎 I'm interested in tecnology, languages and One Piece.</li>
 <li>☃️Fun Fact: I'm a twin</li>
