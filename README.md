@@ -1,6 +1,8 @@
- ## Olá, meu nome é AGUIAR
-<h4> 🔭 Eu sou um dev front end, que sabe html e css<h4>
-<h4> 🌱 Atualmente estou estudando Java Script<h4>
+ 👋 Hi, i'm João Marcos 
+ <h4>😎 I'm interested in tecnology, languages and One Piece.</h4>
+<h4> 🔭 I'm a full Front End Programmer, that knows Html, Css and the basic of Java Script</h4>
+<h4> 🌱 I’m currently learning ReactJs, Python and NodeJs</h4>
+<h4> 🚀 How to reach me contactjoaomarcosaguiar@gmail.com</h4>
 
 <div align="center" style="display: flex">
   <a href="https://github.com/Jm1programmer">
