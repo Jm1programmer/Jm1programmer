@@ -1,5 +1,5 @@
+## 👋 Hi, i'm João Marcos ##
 <ul>
-<li>👋 Hi, i'm João Marcos </li>
 <li>😎 I'm interested in tecnology, languages and One Piece.</li>
 <li>☃️Fun Fact: I'm a twin</li>
 <li>🔭 I'm a full Front End Programmer, that knows Html, Css and the basic of Java Script</li>
