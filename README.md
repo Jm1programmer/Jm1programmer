@@ -13,13 +13,14 @@
        <img align="right" width="180px" src="https://media4.giphy.com/media/NVBR6cLvUjV9C/giphy.gif" alt="">
 </div>
 
-  <div style="display: inline_block" align="center"><br>
+  
 
     
     
-    <h1> Languages and Tools <h1>
-  <img align="center" alt="Aguiar-HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Aguiar-CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <img align="center" alt="Aguiar-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
+   <h3> Languages and Tools </h3>
+  <img  alt="Aguiar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img  alt="Aguiar-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img  alt="Aguiar-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img  alt="Aguiar-VisualStudioCode" height="30" width="30" src="https://sparkcdneus2.azureedge.net/sparkimageassets/XP9KHM4BK9FZ7Q-63e59db4-cf83-46b7-9365-0c37221b94de">
+
   
