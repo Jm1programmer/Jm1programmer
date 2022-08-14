@@ -1,6 +1,7 @@
 <ul>
 <li>👋 Hi, i'm João Marcos </li>
 <li>😎 I'm interested in tecnology, languages and One Piece.</li>
+<li>☃️Fun Fact: I'm a twin</li>
 <li>🔭 I'm a full Front End Programmer, that knows Html, Css and the basic of Java Script</li>
 <li>🌱 I’m currently learning ReactJs, Python and NodeJs</li>
 <li>🚀 How to reach me <a href="mailto:contactjoaomarcosaguiar@gmail.com">contactjoaomarcosaguiar@gmail.com</a></h4></li>
