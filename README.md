@@ -3,7 +3,7 @@
 <li>😎 I'm interested in tecnology, languages and One Piece.</li>
 <li>☃️Fun Fact: I'm a twin</li>
 <li>🔭 I'm a full Front End Programmer, that knows React Native, Node.js, Html and Css/li>
-<li>🌱 I'm currently learning React Native and thinking about start to learn typescript</li>
+<li>🌱 I'm currently learning React Native and typescript</li>
 <li>🚀 How to reach me <a href="mailto:contactjoaomarcosaguiar@gmail.com">contactjoaomarcosaguiar@gmail.com</a></h4></li>
 </ul>
 
