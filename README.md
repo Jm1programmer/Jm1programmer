@@ -1,7 +1,7 @@
 ## <img height="70em" style="user-select: none;" align="center" src="https://media.discordapp.net/attachments/955093666807054386/1008494920711012442/b9371273ae94a946e92074d1b96966-unscreen.gif"> Hi, i'm João Marcos ##
 <ul>
 <li>😎 I'm interested in tecnology, languages and One Piece.</li>
-<li>☃️Engineering student at the University of Brasilia</li>
+<li>☃️ Engineering student at the University of Brasilia</li>
 <li>🔭 I'm a full Front End Programmer, that knows React Native, Node.js, Html and Css/li>
 <li>🌱 I'm currently learning React Native and typescript</li>
 <li>🚀 How to reach me <a href="mailto:contactjoaomarcosaguiar@gmail.com">contactjoaomarcosaguiar@gmail.com</a></h4></li>
